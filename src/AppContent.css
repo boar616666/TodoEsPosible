@@ -1,0 +1,17 @@
+.app-content {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-width: 600px;
+  margin: auto;
+}
+
+.app-content h2 {
+  color: #4CAF50;
+  margin-bottom: 10px;
+}
+
+.app-content p {
+  line-height: 1.6;
+}
